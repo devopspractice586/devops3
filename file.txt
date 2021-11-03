@@ -7,3 +7,11 @@ om sai sri sai jaya jaya sai
 Im happy I created one file in local rep and moved the same to centralized as well!!
 
 testing this file by performing edit operation
+
+I have edited the file in remote repository and commited the changes in the remote rep
+
+to do the above task I uesd the pull command!!
+
+Now planning to see the above two line change in centralised repository.
+
+To check this we need to use the push command so that the local repository chages gets reflects in remote repository.
