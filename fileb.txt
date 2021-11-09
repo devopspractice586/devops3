@@ -1,6 +1,6 @@
 a
 b
-c
+c create the changes that change the world:
 d
 e 
 f sai is for ever will be with us
@@ -11,4 +11,3 @@ j
 k
 l
 m
-n
