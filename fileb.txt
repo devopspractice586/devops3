@@ -1,4 +1,4 @@
-a
+a an apple a day keeps the doctor away
 b
 c create the changes that change the world:
 d
@@ -6,8 +6,7 @@ e
 f sai is for ever will be with us
 g
 h
-i 
-j
+we 
 k
 l
 m
